@@ -1,8 +1,8 @@
 # Normalizacao-de-Dados
 
-IDENTIFICADOR	  NOME	     TELEFONE	     LOGRADOURO	 NUMERO	      CIDADE	     UF	           CEP	              E-MAIL
+| IDENTIFICADOR	|    | NOME |	  | TELEFONE |   | LOGRADOURO |	   | NUMERO |	   | CIDADE |	  | UF |	  | CEP |	  | E-MAIL |
 
-01	          Reinaldo	 68 0945-8723	     R. 10	     34	       São Paulo	   SP	        12345-000	      reinaldo@outlook.com
+|      01	      |   Reinaldo	 68 0945-8723	     R. 10	     34	       São Paulo	   SP	        12345-000	      reinaldo@outlook.com
 
 02	           Nestor	   92 5400-0043	    Av. Bela	   45	      Paulo Afonso	 BA	        00034-000	      nestor123@gmail.com
 
